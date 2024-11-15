@@ -45,11 +45,9 @@ The installation script will:
 
 
 
-**Kalli-Shell** offers a sleek, modern look with custom syntax highlighting, autosuggestions, and a beautiful prompt. The script installs and configures Zsh with additional plugins to enhance usability and appearance.
+**Kali-ZSH** offers a sleek, modern look with custom syntax highlighting, autosuggestions, and a beautiful prompt. The script installs and configures Zsh with additional plugins to enhance usability and appearance.
 
-<video controls>
-  <source src="/screenshots/kali-zsh.mp4" type="video/mp4">
-</video>
+![Kali-zsh](/screenshots/kali-shell.gif)
 
 - **Installation Command:**
 
